@@ -1,4 +1,4 @@
-!**/src/main/application-dev.properties
+/src/main/application-dev.properties
 
 HELP.md
 target/
